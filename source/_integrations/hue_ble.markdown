@@ -21,7 +21,7 @@ The **Hue BLE** {% term integration %} allows you to control your Philips Hue Bl
 
 <div class='note'>
 
-Before trying to connect your light(s) to Home Assistant you must put the light(s) into pairing mode in the Hue app ([Android](https://play.google.com/store/apps/details?id=com.philips.lighting.hue2), [iOS](https://apps.apple.com/us/app/philips-hue/id1055281310)).
+Before trying to connect your light(s) to Home Assistant, you must put the light(s) into pairing mode in the Hue app ([Android](https://play.google.com/store/apps/details?id=com.philips.lighting.hue2), [iOS](https://apps.apple.com/us/app/philips-hue/id1055281310)).
 
 **Settings** > **Voice Assistants** > **Amazon Alexa** or **Google Home** > **Make Discoverable**.
 
