@@ -41,3 +41,9 @@ This {% term integration %} is tested to work with the following models but has 
 | Model number | Product name                                     |
 |--------------|--------------------------------------------------|
 | LCA006       | Hue White and Color 1100                         |
+
+## Removing the integration
+
+This integration follows standard integration removal. No extra steps are required.
+
+{% include integrations/remove_device_service.md %}
